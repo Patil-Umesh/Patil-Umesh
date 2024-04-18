@@ -1,4 +1,4 @@
-![Frontend-Developer Image](https://i.postimg.cc/L5dMTLcV/frontend-4342425-1920.png)
+![Frontend-Developer Image](https://i.postimg.cc/tJg3CvRr/code-1839877-640.jpg)
 
 ### Hi there 👋,
 
