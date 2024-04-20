@@ -12,10 +12,11 @@ Working as Jr Software Engineer.
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ==Front-End Development using React/Redux==
+- 🔭 I’m currently working on Front-End Development using React/Redux, JavaScript, Tailwind CSS.
 - 🌱 I’m currently learning NodeJs
 
-- 💬 Ask me about <i>'HTML/CSS, Tailwind, Javascript, React/Redux, MySQL'</i> for custom Web Development and about Appian for Low-Code Development.
+- 💬 Ask me about <i>'HTML/CSS, Tailwind CSS, Javascript, React/Redux, MySQL'</i> for custom Web Development and about Appian for Low-Code Development.
+- 💻 Take a look at my previous work :- [Resume](https://drive.google.com/file/d/1iprqLqjEYHuv-Upe1mgKhE2vX6wO2FJt/view?usp=sharing)
 - 📫 How to reach me:
   Message me: [LinkedIn](https://www.linkedin.com/in/umesh-patil2504/)
   Email: pumesh522@gmail.com
