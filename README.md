@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about <i>'HTML/CSS, Tailwind CSS, Javascript, React/Redux, MySQL'</i> for custom Web Development and about Appian for Low-Code Development.
 - 💻 Take a look at my previous work :- [Resume](https://drive.google.com/file/d/1uryfgODzgD7pQY0lZfqxgypE7tdmGSBh/view?usp=sharing)
 - 📫 How to reach me:
-  Message me: [LinkedIn](https://www.linkedin.com/in/umesh-patil2504/)
-  Email: pumesh522@gmail.com
-  Cell: +91 800-750-2296
+- Message me: [LinkedIn](https://www.linkedin.com/in/umesh-patil2504/)
+- Email: pumesh522@gmail.com
+- Cell: +91 800-750-2296
 - 😄 Pronouns: He/Him
